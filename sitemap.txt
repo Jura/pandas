@@ -4,3 +4,13 @@ http://pandas.undp.org/en/contact-us.html
 http://pandas.undp.org/en/faq.html
 http://pandas.undp.org/en/panda-ambassadors.html
 http://pandas.undp.org/en/rules.html
+http://pandas.undp.org/es/index.html
+http://pandas.undp.org/es/contact-us.html
+http://pandas.undp.org/es/faq.html
+http://pandas.undp.org/es/panda-ambassadors.html
+http://pandas.undp.org/es/rules.html
+http://pandas.undp.org/fr/index.html
+http://pandas.undp.org/fr/contact-us.html
+http://pandas.undp.org/fr/faq.html
+http://pandas.undp.org/fr/panda-ambassadors.html
+http://pandas.undp.org/fr/rules.html
