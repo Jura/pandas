@@ -28,7 +28,7 @@
     </script>
     <header>
       <div class="row">
-        <div class="columns undp-logo shrink">
+        <div class="columns small-3 medium-4 undp-logo ">
           <a href="http://www.undp.org"><img data-interchange="[../assets/img/UNDP50_es_small.png, small],[../assets/img/UNDP50_es.png, medium]" src="../assets/img/UNDP50_es_small.png" alt="UNDP50 logo" /></a>
         </div>
         
@@ -37,16 +37,8 @@
           <div class="row">
             <div class="columns topmenu-container">
               
-              <div class="float-left show-for-medium">
+              <div class="float-right show-for-medium">
                 <div class="addthis_horizontal_follow_toolbox"></div>
-              </div>
-              
-              <div class="button-group float-right show-for-medium">
-                
-                  <a href="../en/faq" class="button"  hreflang="en">English</a>
-                  <a href="../es/faq" class="button disabled"  hreflang="es">Español</a>
-                  <a href="../fr/faq" class="button"  hreflang="fr">Français</a>
-               
               </div>
               
             </div>
@@ -60,21 +52,24 @@
               </div>
               <div class="top-bar" id="topmenu">
                 <div class="top-bar-right">
-                  <ul class="vertical medium-horizontal menu align-right">
-                    <li>
-                      <div class="tiny button-group hide-for-medium">
-                
-                        <a href="../en/faq" class="button"  hreflang="en">English</a>
-                        <a href="../es/faq" class="button disabled"  hreflang="es">Español</a>
-                        <a href="../fr/faq" class="button"  hreflang="fr">Français</a>
-      
-                      </div>
-                    </li>
+                  <ul class="vertical medium-horizontal dropdown menu align-right" data-dropdown-menu>
+                    
                     <li class="hide-for-medium"><div class="addthis_horizontal_follow_toolbox"></div></li>
+                    
                     <li><a href="../es/">El concurso</a></li>
                     <li><a href="../es/panda-ambassadors">Los Embajadores Pandas</a></li>
                     <li class="active"><a href="../es/faq">FAQ</a></li>
                     <li><a href="../es/contact-us">Contacto</a></li>
+                    
+                    <li class=".is-dropdown-submenu-parent">
+                      <a class="button primary">Español</a>
+                      <ul class="menu">
+                          <li><a class="button primary" href="../en/faq">English</a></li>
+                          
+                          <li><a class="button primary" href="../fr/faq">Français</a></li>
+                      </ul>
+                      
+                    </li>
                     
                   </ul>
                 </div>
