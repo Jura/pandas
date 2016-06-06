@@ -14,3 +14,8 @@ http://pandas.undp.org/fr/contact-us.html
 http://pandas.undp.org/fr/faq.html
 http://pandas.undp.org/fr/panda-ambassadors.html
 http://pandas.undp.org/fr/rules.html
+http://pandas.undp.org/zh/index.html
+http://pandas.undp.org/zh/contact-us.html
+http://pandas.undp.org/zh/faq.html
+http://pandas.undp.org/zh/panda-ambassadors.html
+http://pandas.undp.org/zh/rules.html
